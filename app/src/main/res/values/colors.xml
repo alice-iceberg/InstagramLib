@@ -6,7 +6,7 @@
     <color name="colorJuicyBlue">#00C9FF</color>
     <color name="colorJuicyGreen">#92FE9D</color>
 
-    <color name="login_form_details">#ccffffff</color>
-    <color name="login_form_details_light">#5affffff</color>
-    <color name="login_form_details_medium">#99fffff</color>
+    <color name="login_form_details">#ccffff</color>
+    <color name="login_form_details_light">#0D262626</color>
+    <color name="login_form_details_medium">#c3ffff</color>
 </resources>
